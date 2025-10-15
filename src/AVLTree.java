@@ -1,5 +1,11 @@
 // AvlTree class
 //
+///∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*
+//∗ @file: AvlTree.java
+//∗ @description: This program extends comparable and construct AVL tree
+//∗ @author: Eric Gao
+//∗ @date: October 14, 2025
+//∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗/
 // CONSTRUCTION: with no initializer
 //
 // ******************PUBLIC OPERATIONS*********************
