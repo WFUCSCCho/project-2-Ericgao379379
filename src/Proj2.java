@@ -27,7 +27,23 @@ public class Proj2 {
         // ignore first line
         inputFileNameScanner.nextLine();
 
-	// FINISH ME
+        // Create an AVL tree
+        AvlTree<String> avlTree = new AvlTree<>();
 
+        // Read lines from the input file and insert into the AVL tree
+        for (int i = 0; i < numLines && inputFileNameScanner.hasNextLine(); i++) {
+            String line = inputFileNameScanner.nextLine();
+            // Split the line into columns, the first column is the name
+            String[] columns = line.split(",");
+            if (columns.length > 0) {
+                avlTree.insert(columns[0]);
+            }
+        }
+
+        // Close the file scanner
+        inputFileNameScanner.close();
+
+        // Print the tree
+        avlTree.printTree();
     }
 }
