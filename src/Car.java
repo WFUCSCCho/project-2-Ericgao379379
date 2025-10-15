@@ -2,7 +2,7 @@
 //∗ @file: Car.java
 //∗ @description: This program helps store car values
 //∗ @author: Eric Gao
-//∗ @date: September 22, 2025
+//∗ @date: Oct 15, 2025
 //∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗
 import java.util.Objects;
 

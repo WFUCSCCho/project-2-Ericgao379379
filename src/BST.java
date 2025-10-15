@@ -1,7 +1,7 @@
 //∗ @file: BST.java
 //∗ @description: This program defines a BST and has numeral methods
 //∗ @author: Eric Gao
-//∗ @date: September 15, 2025
+//∗ @date: Oct 15, 2025
 import java.util.*;
 
 public class BST<T extends Comparable<? super T>> implements Iterable<T> {

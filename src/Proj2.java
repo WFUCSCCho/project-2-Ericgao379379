@@ -1,3 +1,10 @@
+///∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*
+//∗ @file: Proj2.java
+//∗ @description: This program reads Car.csv and put it to trees and calculate time for each
+//∗ @author: Eric Gao
+//∗ @date: October 15, 2025
+//∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗/
+
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
